@@ -9,6 +9,12 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=go&logoColor=white&color=ED6A5A)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ED6A5A)
 
+
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/?username=gstemmann&theme=synthwave"
+/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
