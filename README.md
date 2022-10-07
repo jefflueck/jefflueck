@@ -16,7 +16,7 @@
 ### Here is a little about me!
 - 🔭 I’m currently working on a building a full-stack web app for making a baseball roster using all players past and present.
 - 🌱 I’m currently learning Data Structures and Algorythms
-- 🤔 I’m looking for help with anything code related. Love to learn from more experienced people! 🤯
+- 🤔 I’m looking for help with anything code related. Love to learn from more experienced people! 😄 💻
 - 📫 How to reach me: lueckcfd@yahoo.com
 - ⚡ Fun fact: I'm switching careers after 20+ years in one industry. Email me and I would love to share my journey and choice to change!
 -->
