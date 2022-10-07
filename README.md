@@ -19,4 +19,5 @@
 - 🤔 I’m looking for help with anything code related. Love to learn from more experienced people! 😄 💻
 - 📫 How to reach me: lueckcfd@yahoo.com
 - ⚡ Fun fact: I'm switching careers after 20+ years in one industry. Email me and I would love to share my journey and choice to change!
--->
+
+<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F6947132-computer-reaction-faces-internet-funny-meme-man-staring-at-computer-screen-common-memes-used-across-internet-in-chats-of-gifs&psig=AOvVaw3vCLVdXaXzBynXarWMwYnS&ust=1665251363079000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLD4zPHWzvoCFQAAAAAdAAAAABAd" />
