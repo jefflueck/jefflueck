@@ -12,9 +12,8 @@
 <a href="https://github.com/jefflueck">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefflueck&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=ED6A5A" />
 </a>
-</br>
-Here are some ideas to get you started:
 
+### Here is a little about me!
 - 🔭 I’m currently working on a building a full-stack web app for making a baseball roster
 - 🌱 I’m currently learning Data Structures and Algorythms
 - 🤔 I’m looking for help with ...
