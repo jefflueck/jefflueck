@@ -17,6 +17,6 @@
 - 🔭 I’m currently working on Hack for LA Website Team as a Software Engineer.
 - 🌱 I’m currently learning GitHub Actions.
 - 🤔 I’m looking for help with anything code related. Love to learn from more experienced people! 😄 💻
-- 📫 How to reach me: lueckcfd@yahoo.com
+- 📫 How to reach me: jeff.lueck.us@gmail.com
 - ⚡ Fun fact: I'm switching careers after 20+ years in one industry. Email me and I would love to share my journey and choice to change!
 
